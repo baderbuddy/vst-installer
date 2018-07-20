@@ -1,0 +1,15 @@
+{
+  "name": "vst-installer",
+  "version": "1.0.0",
+  "description": "A tool to install VSTs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dmg": "^0.1.0",
+    "ncp": "^2.0.0"
+  }
+}
